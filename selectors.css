@@ -1,0 +1,37 @@
+header {
+	border: 1px solid red;
+}
+
+
+.disabled {
+	color: grey;
+}
+
+a.disabled {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+h4.red {
+	background-color: red;
+}
+
+h4.blue {
+	background-color: blue;
+}
+
+.parent {
+	border: 1px red;
+	border-radius: 25px;
+}
